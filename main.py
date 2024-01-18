@@ -1,7 +1,5 @@
-from openai import OpenAI
 import AO3
 from pathlib import Path
-import os
 from gtts import gTTS, gTTSError
 
 
